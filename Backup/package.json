@@ -30,9 +30,10 @@
   "axois": "^0.0.1-security",
   
     
+  "chalk": "^5.6.2",
+  
+    
   "node-fetch": "^3.3.2"
   
-  },
-  
-  "devDependencies": {}
+  }
 }

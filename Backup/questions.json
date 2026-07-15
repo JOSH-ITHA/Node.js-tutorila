@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of India?",
+        "options": [
+            "Delhi",
+            "Mumbai",
+            "Hyderabad",
+            "Chennai"
+        ],
+        "answer": "Delhi"
+    },
+    {
+        "question": "Which language is used with Node.js?",
+        "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C++"
+        ],
+        "answer": "JavaScript"
+    },
+    {
+        "question": "Which company developed Java?",
+        "options": [
+            "Microsoft",
+            "Sun Microsystems",
+            "Google",
+            "Apple"
+        ],
+        "answer": "Sun Microsystems"
+    },
+    {
+        "question": "Which keyword is used to declare a constant in JavaScript?",
+        "options": [
+            "let",
+            "var",
+            "const",
+            "static"
+        ],
+        "answer": "const"
+    },
+    {
+        "question": "What does JSON stand for?",
+        "options": [
+            "Java Source Object Notation",
+            "JavaScript Object Notation",
+            "Java Standard Object Name",
+            "JavaScript Open Network"
+        ],
+        "answer": "JavaScript Object Notation"
+    }
+]
